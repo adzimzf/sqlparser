@@ -24,7 +24,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/xwb1989/sqlparser/dependency/sqltypes"
+	"github.com/adzimzf/sqlparser/dependency/sqltypes"
 )
 
 func TestAppend(t *testing.T) {

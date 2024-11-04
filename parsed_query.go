@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/xwb1989/sqlparser/dependency/querypb"
-	"github.com/xwb1989/sqlparser/dependency/sqltypes"
+	"github.com/adzimzf/sqlparser/dependency/querypb"
+	"github.com/adzimzf/sqlparser/dependency/sqltypes"
 )
 
 // ParsedQuery represents a parsed query where
